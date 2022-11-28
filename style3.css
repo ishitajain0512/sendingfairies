@@ -1,0 +1,387 @@
+@media (max-width:500px){
+    #myVideo {
+        height: 17rem;
+      }
+    .container1{
+      width:21rem;
+      height:37rem;
+      margin-left: 2rem;;
+    }
+    .container2{
+      width:21rem;
+      height:37rem;
+      margin-left: 2rem;
+      margin-top: 2rem;
+      opacity: 0;
+    }
+    .c1{
+      width:2rem;
+      height:2rem;
+    }
+    .image-box1{
+      width: 26rem;
+    height: 22rem;
+    margin-left: 1rem;
+    }
+    .image-box1 img{
+      width: 22rem;
+    height: 22rem;
+    margin-left: 0rem;
+    }
+    .p1-h1{
+      width: 26rem;
+    height: 2rem;
+    margin-left: -17rem;
+    margin-top: 28rem;
+    }
+    .circle-p1{
+      margin-left: 2rem;
+    }
+    .circle-p2{
+      width:10rem;
+    }
+    .image-box2{
+      width: 11rem;
+      height: 20rem;
+      margin-left: -13rem;
+      margin-top: 29rem;
+    }
+    .image-box2 img{
+      width: 22rem;
+      height: 22rem;
+      margin-left: -5rem;
+      margin-top: 0rem;
+    }
+    .p2-h2{
+      width: 26rem;
+    height: 2rem;
+    margin-left: -7rem;
+    margin-top: 49rem;
+    }
+    .i-want-to{
+      margin-top: 38rem;
+      margin-left: -2rem;
+    }
+    .inner-b1{
+      width:25rem;
+    }
+    .inner-b2{
+      width:25rem;
+      margin-left: -13rem;
+      margin-top: 12rem;
+    }
+    .inner-b3{
+      width:25rem;
+    }
+    .inner-b4{
+      width:25rem;
+      margin-left: -13rem;
+      margin-top: 12rem;
+    }
+    .link1{
+      width:13rem;
+    }
+    .b1{
+      margin-top: 20rem;
+      margin-left: 2rem;
+    }
+    .b2{
+      margin-top: 3rem;
+      margin-left: 2rem;
+    }
+    .b3{
+      margin-top: 2rem;
+      margin-left: 2rem;
+    }
+}
+@media (max-width:400px){
+  #myVideo {
+      height: 14rem;
+    }
+  .container1{
+    width:21rem;
+    height:37rem;
+    margin-left: 2rem;;
+  }
+  .container2{
+    width:21rem;
+    height:37rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    opacity: 0;
+  }
+  .c1{
+    width:2rem;
+    height:2rem;
+  }
+  .image-box1{
+    width: 26rem;
+  height: 22rem;
+  margin-left: 1rem;
+  }
+  .image-box1 img{
+    width: 22rem;
+  height: 22rem;
+  margin-left: 0rem;
+  }
+  .p1-h1{
+    width: 26rem;
+  height: 2rem;
+  margin-left: -17rem;
+  margin-top: 28rem;
+  }
+  .circle-p1{
+    margin-left: 2rem;
+  }
+  .circle-p2{
+    width:10rem;
+  }
+  .image-box2{
+    width: 11rem;
+    height: 20rem;
+    margin-left: -13rem;
+    margin-top: 29rem;
+  }
+  .image-box2 img{
+    width: 22rem;
+    height: 22rem;
+    margin-left: -5rem;
+    margin-top: 0rem;
+  }
+  .p2-h2{
+    width: 26rem;
+  height: 2rem;
+  margin-left: -7rem;
+  margin-top: 49rem;
+  }
+  .i-want-to{
+    margin-top: 38rem;
+    margin-left: -2rem;
+  }
+  .inner-b1{
+    width:25rem;
+  }
+  .inner-b2{
+    width:25rem;
+    margin-left: -13rem;
+    margin-top: 12rem;
+  }
+  .inner-b3{
+    width:25rem;
+  }
+  .inner-b4{
+    width:25rem;
+    margin-left: -13rem;
+    margin-top: 12rem;
+  }
+  .link1{
+    width:13rem;
+  }
+  .b1{
+    margin-top: 20rem;
+    margin-left: 2rem;
+  }
+  .b2{
+    margin-top: 3rem;
+    margin-left: 2rem;
+  }
+  .b3{
+    margin-top: 2rem;
+    margin-left: 2rem;
+  }
+}
+@media (max-width:360px){
+  #myVideo {
+      height: 12.5rem;
+    }
+  .container1{
+    width:21rem;
+    height:37rem;
+    margin-left: 2rem;;
+  }
+  .container2{
+    width:21rem;
+    height:37rem;
+    margin-left: 2rem;
+    margin-top: 2rem;
+    opacity: 0;
+  }
+  .c1{
+    width:2rem;
+    height:2rem;
+  }
+  .image-box1{
+    width: 26rem;
+  height: 22rem;
+  margin-left: 1rem;
+  }
+  .image-box1 img{
+    width: 22rem;
+  height: 22rem;
+  margin-left: 0rem;
+  }
+  .p1-h1{
+    width: 26rem;
+  height: 2rem;
+  margin-left: -17rem;
+  margin-top: 28rem;
+  }
+  .circle-p1{
+    margin-left: 2rem;
+  }
+  .circle-p2{
+    width:10rem;
+  }
+  .image-box2{
+    width: 11rem;
+    height: 20rem;
+    margin-left: -13rem;
+    margin-top: 29rem;
+  }
+  .image-box2 img{
+    width: 22rem;
+    height: 22rem;
+    margin-left: -5rem;
+    margin-top: 0rem;
+  }
+  .p2-h2{
+    width: 26rem;
+  height: 2rem;
+  margin-left: -9rem;
+  margin-top: 49rem;
+  }
+  .i-want-to{
+    margin-top: 38rem;
+    margin-left: -2rem;
+  }
+  .inner-b1{
+    width:25rem;
+  }
+  .inner-b2{
+    width:25rem;
+    margin-left: -13rem;
+    margin-top: 12rem;
+  }
+  .inner-b3{
+    width:25rem;
+  }
+  .inner-b4{
+    width:25rem;
+    margin-left: -13rem;
+    margin-top: 12rem;
+  }
+  .link1{
+    width:13rem;
+  }
+  .b1{
+    margin-top: 20rem;
+    margin-left: 2rem;
+  }
+  .b2{
+    margin-top: 3rem;
+    margin-left: 2rem;
+  }
+  .b3{
+    margin-top: 2rem;
+    margin-left: 2rem;
+  }
+}
+/* @media (max-width:900px){
+  #myVideo {
+      height: 31.5rem;
+      margin-top: -5rem;
+    }
+  .container1{
+    width:21rem;
+    height:37rem;
+    margin-left: 5rem;;
+  }
+  .container2{
+    width:21rem;
+    height:37rem;
+    margin-left: 29rem;
+    margin-top: 0rem;
+  }
+  .c1{
+    width:2rem;
+    height:2rem;
+  }
+  .image-box1{
+    width: 21rem;
+    height: 22rem;
+    margin-left: 1rem;
+  }
+  .image-box1 img{
+    width: 22rem;
+  height: 22rem;
+  margin-left: 0rem;
+  }
+  .p1-h1{
+    width: 26rem;
+    height: 2rem;
+    margin-left: 4rem;
+    margin-top: 7rem;
+  }
+  .circle-p1{
+    margin-left: 2rem;
+  }
+  .circle-p2{
+    width:10rem;
+  }
+  .image-box2{
+    width: 11rem;
+    height: 20rem;
+    margin-left: -37rem;
+    margin-top: 7rem;
+  }
+  .image-box2 img{
+    width: 22rem;
+    height: 22rem;
+    margin-left: -5rem;
+    margin-top: 0rem;
+  }
+  .p2-h2{
+    width: 26rem;
+    height: 2rem;
+    margin-left: 18rem;
+    margin-top: 0rem;
+  }
+  .i-want-to{
+    margin-top: 11rem;
+    margin-left: -2rem;
+  }
+  .inner-b1{
+    width:25rem;
+    margin-left: 4rem;
+  }
+  .inner-b2{
+    width:25rem;
+    margin-left: -13rem;
+    margin-top: 12rem;
+  }
+  .inner-b3{
+    width:25rem;
+    margin-left: 4rem;
+    margin-top: 3rem;
+  }
+  .inner-b4{
+    width:25rem;
+    margin-left: -13rem;
+    margin-top: 12rem;
+  }
+  .link1{
+    width:13rem;
+  }
+  .b1{
+    margin-top: -26rem;
+    margin-left: 16rem;
+  }
+  .b2{
+    margin-top: 3rem;
+    margin-left: 16rem;
+  }
+  .b3{
+    margin-top: 2rem;
+    margin-left: 16rem;
+  }
+} */
